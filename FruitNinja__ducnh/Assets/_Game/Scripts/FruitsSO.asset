@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a3566cf550dfe24590edd5eeb7091f7, type: 3}
+  m_Name: FruitsSO
+  m_EditorClassIdentifier: 
+  Fruits:
+  - {fileID: 1592171285629371586, guid: d225dafe71dbb08429799a6b9c7e6739, type: 3}
+  - {fileID: 4474802963869091710, guid: 29a1cb681c5aab54dadab8e2116cf965, type: 3}
+  - {fileID: 4474802963869091710, guid: 6e4d06aab23e0084e9159e318a113b86, type: 3}
+  - {fileID: 1592171285629371586, guid: d8d02d97e56b0a94199e04e005a7d937, type: 3}
+  - {fileID: 4474802963869091710, guid: e28e2d22359f06c4eb7ff6cea015b38f, type: 3}
+  - {fileID: 4474802963869091710, guid: fa08fe6fcc838ba479c0e1dc16a90980, type: 3}
+  - {fileID: 4474802963869091710, guid: 9ede3ce06e2834247a17cfccdc055167, type: 3}
+  - {fileID: 4474802963869091710, guid: 5f3fa6b366fb7ed428e7911e4fad870a, type: 3}
+  - {fileID: 1592171285629371586, guid: c0be823b4ff14374d8e57eef3e5de842, type: 3}
+  - {fileID: 4474802963869091710, guid: 556988860f36ee444bc1461ecde5ae4e, type: 3}
+  bomb: {fileID: 279081572017402569, guid: d1baa135bf777dc4c9956a5135887a55, type: 3}
+  FrostFruit: {fileID: 4474802963869091710, guid: 5d33de2b0453f10429e5da7308314c24, type: 3}
+  RainbowFruit: {fileID: 4474802963869091710, guid: 55d43d12b967de24f861e185159f0a8f, type: 3}
+  pomeGranate: {fileID: 3930526029153539157, guid: f7fd3f19ac6ceed4fa33f45de3350fc5, type: 3}
